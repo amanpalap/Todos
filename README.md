@@ -78,21 +78,10 @@ Here's an overview of the project's directory layout:
   - **`index.jsx`**: Entry point of the application.
 - **`public/`**: Publicly accessible files and assets.
 
-## 📸 Screenshots
-
-### Homepage
-
-![Homepage](screenshots/homepage.png)
-
-### Interactive Elements
-
-![Interactive Elements](screenshots/interactive.png)
 
 ## 📜 About
 
 **Cozy Yeot** is built with a focus on interactivity and responsiveness, ensuring an engaging user experience across all devices. Whether you're using a smartphone, tablet, or desktop, Cozy Yeot adjusts perfectly to provide a seamless interface.
 
 ---
-
-Feel free to customize this `README.md` further to suit your project's needs. If you have any additional details or need further sections, let me know!
 
